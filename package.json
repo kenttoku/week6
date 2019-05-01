@@ -1,0 +1,21 @@
+{
+  "name": "revature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1903-mar25-cloud/kent-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1903-mar25-cloud/kent-code/issues"
+  },
+  "homepage": "https://github.com/1903-mar25-cloud/kent-code#readme"
+}
